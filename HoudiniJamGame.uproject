@@ -7,6 +7,10 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": true
+		},
+		{
+			"Name": "MIDIDevice",
+			"Enabled": true
 		}
 	]
 }
