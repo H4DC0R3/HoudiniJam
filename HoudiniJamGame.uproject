@@ -9,7 +9,23 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MIDIDevice",
+			"Name": "AudioSynesthesia",
+			"Enabled": true
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundCueTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundVisualizations",
 			"Enabled": true
 		}
 	]
